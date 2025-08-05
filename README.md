@@ -4,6 +4,7 @@ SARA SANTACRUZ CORREDOR
 0000320782
 sarasaco@unisabana.edu.co
 # Bienvenidos a la Tarea de HTML y CSS
+Link tarea: https://dsaw-2025-ii.github.io/my-cv-part-a-sarastacruz04/
 
 ¡Hola a todos!
 
